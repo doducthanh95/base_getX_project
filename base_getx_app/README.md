@@ -18,8 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - test commit 1
 
-- test commit 2
-
 - test commit 3
 
 - test aaaa
